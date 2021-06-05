@@ -5,7 +5,7 @@
 
 ## Lessons Learned
 
-- Learnt a lot on how to use CSS `flex` better
+- Learned a lot on how to use CSS `flex` better
 - Got to know we can nest `flex`
 - An element in CSS can both be a flex-item and flex-container
 - Used `classList.toggle()`
